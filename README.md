@@ -1,6 +1,7 @@
 This is a code repository for the CS 366 Final Project.
 
 You can run this code by using the command: streamlit run app.py
+
 This will then take you to an external browser where you can follow prompts to succesfully use the app.
 
 The purpose of this code is to create a player tracker for soccer data.
