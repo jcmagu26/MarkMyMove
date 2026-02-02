@@ -101,8 +101,8 @@ All features can be toggled on or off within the app.
 📌 Why This Project Matters
 --------------------------------------------------
 
-This project showcases my ability to:
-• Apply machine learning models to real-world video data
-• Build complete, user-facing ML applications
-• Design algorithms that handle noisy and imperfect inputs
-• Communicate technical work clearly through interactive tools
+This project showcases my ability to:  
+• Apply machine learning models to real-world video data  
+• Build complete, user-facing ML applications  
+• Design algorithms that handle noisy and imperfect inputs  
+• Communicate technical work clearly through interactive tools  
